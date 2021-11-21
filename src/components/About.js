@@ -30,14 +30,7 @@ const About = () => {
               })
             }
           </div>
-          <div className="flex justify-center">
-            <a
-              href="#contact"
-              className="inline-flex text-white bg-green border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Descarga mi CV
-            </a>
-          </div>
-          
+                    
         </div>
         <div className="lg:max-w-lg  md:w-1/3 ">
           <img

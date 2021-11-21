@@ -21,12 +21,12 @@ export const projects = [
 ];
 
 export const skills = [
+  "HTML/CSS",
+  "Typescript",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "Django",
 ];
 
 export const education=[
