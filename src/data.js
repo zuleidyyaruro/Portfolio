@@ -31,7 +31,7 @@ export const projects = [
     description:
       "Obtiene datos de Pokemones de una API pública, buscándolos por nombre o tipo. Además utilizo Context para rutas protegidas. ",
     image: "./project-4.gif",
-    link: "https://github-app-seven.vercel.app/",
+    link: "https://pokedex-react-final.vercel.app/#/",
   },
  
 ];
