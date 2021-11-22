@@ -3,19 +3,35 @@ import { faGithub, faLinkedin, faFacebookSquare } from '@fortawesome/free-brands
 export const projects = [
   {
     title: "To Do App",
-    subtitle: "React-API",
+    subtitle: "React-Consumo de API",
     description:
       "Aplicación de Lista de Tareas. Consume un API pública, se clasifican las tareas, manejo de validaciones. Tambien se pueden agregar tareas y cambiar el estado.",
     image: "./project-1.gif",
     link: "https://todo-list-app-zuleidy.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Weather App",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Obtiene el clima del la API de geolocalización del navegador y también permite la búsqueda del clima de una ciudad por medio de una API pública",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://weather-app-new-a74p9xn16-zuleidyyaruro.vercel.app/",
+  },
+  {
+    title: "GitHub App",
+    subtitle: "React",
+    description:
+      "Obtiene datos de usuarios de Github, como imágen de perfil, repositorios y nombre de usuario. La aplicación se maneja por medio de rutas.",
+    image: "./project-3.gif",
+    link: "https://github-app-seven.vercel.app/",
+  },
+  {
+    title: "Poke App",
+    subtitle: "React, Context API",
+    description:
+      "Obtiene datos de Pokemones de una API pública, buscándolos por nombre o tipo. Además utilizo Context para rutas protegidas. ",
+    image: "./project-4.gif",
+    link: "https://github-app-seven.vercel.app/",
   },
  
 ];
